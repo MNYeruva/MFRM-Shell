@@ -3,3 +3,6 @@ Multiple Environments : PROD & NON-PROD
     - DEV
     - QA
     - UAT
+
+
+- yum list installed | grep nginx
